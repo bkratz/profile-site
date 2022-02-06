@@ -73,7 +73,7 @@ email: ""
 highlight_name: true
 ---
 
-I'm a software developer, agile method, Clean-Code and TDD enthusiast.
+I'm a freelance software developer, enthusiastic about using agile methods, writing clean-code and practicing test driven development (TDD).
 I have more then 20 years of experience of project work in several sectors and all team sizes.
 My focus currently is developing RESTful Web-Services with Java and SpringBoot, including all aspects like architecture, development, quality assurance and testing.
 

@@ -73,7 +73,7 @@ email: ""
 highlight_name: true
 ---
 
-Ich bin Softwareentwicklerin, Verfechterin der Anwendung agiler Entwicklungsmethoden und leidenschaftliche Clean-Code und TDD Enthusiastin.
+Ich bin freiberufliche Softwareentwicklerin, Verfechterin der Anwendung agiler Entwicklungsmethoden und leidenschaftliche Clean-Code und TDD Enthusiastin.
 Ich habe mehr als 20 Jahre Erfahrung in der Softwareentwicklung für unterschiedliche Branchen und in der Zusammenarbeit innerhalb großer und kleiner Teams.
 Mein Schwerpunkt liegt derzeit in der Entwicklung von RESTful Web-Services mit Hilfe von Java und SpringBoot. Dabei bin ich in alle Aspekte, von der Architektur über die Umsetzung (hauptsächlich von Backend-Anforderungen), Qualitätssicherung und Test, involviert.
 
