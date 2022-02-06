@@ -20,28 +20,19 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: mail (at) birgitkratz.de
+phone: +49 172 9925467
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-  country_code: US
-coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
+  city: Dormagen
+  region: NRW
+  country: Germany
+  country_code: DE
 appointment_url: 'https://calendly.com'
 contact_links:
   - icon: twitter
     icon_pack: fab
     name: DM Me
-    link: 'https://twitter.com/Twitter'
+    link: 'https://twitter.com/bikratz'
   - icon: skype
     icon_pack: fab
     name: Skype Me
@@ -68,17 +59,17 @@ main_menu:
 
 # Localization
 
-date_format: 'Jan 2, 2006'
-time_format: '3:04 PM'
+date_format: '2 Jan 2006'
+time_format: '03:04'
 address_format: en-us
 
 # Site features
 
 highlight: true
 highlight_languages:
-  - r
-  - python
-  - latex
+  - Java 17+
+  - SpringBoot 2
+  - RESTful API
 math: false
 diagram: false
 privacy_pack: false
