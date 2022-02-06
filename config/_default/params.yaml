@@ -5,9 +5,9 @@
 
 # Appearance
 
-theme: minimal
-day_night: true
-font: ''
+theme: earth
+day_night: false
+font: 'minimal'
 font_size: L
 
 # SEO
@@ -40,9 +40,9 @@ main_menu:
   align: l
   show_logo: true
   show_language: false
-  show_day_night: true
-  show_search: true
-  highlight_active_link: true
+  show_day_night: false
+  show_search: false
+  highlight_active_link: false
 
 # Localization
 
