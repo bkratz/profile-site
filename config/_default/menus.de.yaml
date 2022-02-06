@@ -7,22 +7,22 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Posts
+  - name: Blog
     url: '#posts'
     weight: 20
   - name: Projekte
     url: '#projects'
     weight: 30
-  - name: Talks
+  - name: Vorträge
     url: '#talks'
     weight: 40
-  - name: Publications
+  - name: Publikationen
     url: '#featured'
     weight: 50
   - name: Courses
     url: courses/
     weight: 60
-  - name: Contact
+  - name: Kontakt
     url: '#contact'
     weight: 70
   - name: Impressum
