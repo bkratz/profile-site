@@ -11,22 +11,30 @@ role: Freelancer, Softwarecrafter
 # Organizations/Affiliations to show in About widget
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Softwarearchitektin und Entwicklerin Java, SpringBoot, Clean Code, Agile
 
 # Interests to show in About widget
 interests:
 - Softwarecrafting
+- Softwarearchitektur
 - Clean Code
-- Test Driven Developemnt
-- Lernen
-- Lehren
+- Test Driven Development (TDD)
+- kontinuierliches Lernen
+- kontinulierliche Wissensvermittlung
 
 # Education to show in About widget
 education:
-  courses:
-  - course: Dipl.-Ing. Technische Kybernetik und Automatisierungstechnik
-    institution: TU Dresden
-    year: 1992
+  erfahrungen:
+  - erfahrung: Mehr als 20 Jahre Erfahrung in der Softwareentwicklung (Java, Backend)
+    sectors:
+    - sector: Banken
+    - sector: Versicherungen
+    - sector: Handel
+    - sector: Logistik
+    - sector: Automobilindustrie
+    - sector: Industrie
+    - sector: Biotechnologie
+  - erfahrung: Dipl.-Ing. Technische Kybernetik und Automatisierungstechnik, TU Dresden, 1992
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -39,7 +47,7 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/bikratz
-  label: Follow me on Twitter
+  label: Auf Twitter folgen
   display:
     header: true
 - icon: xing
@@ -66,8 +74,10 @@ email: ""
 highlight_name: true
 ---
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Ich bin Softwareentwicklerin, Verfechterin der Anwendung agiler Entwicklungsmethoden und leidenschaftliche Clean-Code und TDD Enthusiastin.
+Ich habe mehr als 20 Jahre Erfahrung in der Softwareentwicklung für unterschiedliche Branchen und in der Zusammenarbeit innerhalb großer und kleiner Teams.
+Mein Schwerpunkt liegt derzeit in der Entwicklung von RESTful Web-Services mit Hilfe von Java und SpringBoot. Dabei bin ich in alle Aspekte, von der Architektur über die Umsetzung (hauptsächlich von Backend-Anforderungen), Qualitätssicherung und Test, involviert.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Ich bin Organisator der [Softwerkskammer](https://softwerkskammer.org) Meetings in [Cologne](https://www.meetup.com/de-DE/Softwerkskammer-Koln/) und [Düsseldorf](https://www.meetup.com/de-DE/Softwerkskammer-Dusseldorf/).
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Mein {{< staticref "uploads/profil_de.pdf" "newtab" >}}Profil{{< /staticref >}} zum Herunterladen als PDF.

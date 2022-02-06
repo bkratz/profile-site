@@ -27,24 +27,11 @@ address:
   region: NRW
   country: Germany
   country_code: DE
-appointment_url: 'https://calendly.com'
 contact_links:
   - icon: twitter
     icon_pack: fab
     name: DM Me
     link: 'https://twitter.com/bikratz'
-  - icon: skype
-    icon_pack: fab
-    name: Skype Me
-    link: 'skype:echo123?call'
-  - icon: keybase
-    icon_pack: fab
-    name: Chat on Keybase
-    link: 'https://keybase.io/'
-  - icon: comments
-    icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
 
 # Site header
 
@@ -61,15 +48,12 @@ main_menu:
 
 date_format: '2 Jan 2006'
 time_format: '03:04'
-address_format: en-us
+address_format: de
 
 # Site features
 
 highlight: true
 highlight_languages:
-  - Java 17+
-  - SpringBoot 2
-  - RESTful API
 math: false
 diagram: false
 privacy_pack: false
@@ -127,7 +111,7 @@ comments:
   commento:
     url: ''
 search:
-  provider: wowchemy
+  provider: # wowchemy
   algolia:
     app_id: ''
     api_key: ''

@@ -11,22 +11,30 @@ role: Freelancer, Softwarecrafter
 # Organizations/Affiliations to show in About widget
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Softwarearchitect and Developer Java, SpringBoot, Clean Code, Agile
 
 # Interests to show in About widget
 interests:
 - Softwarecrafting
 - Clean Code
 - Test Driven Developemnt
-- Lernen
-- Lehren
+- Continuous leraning
+- Continuous teaching
 
 # Education to show in About widget
 education:
-  courses:
-  - course: Dipl.-Ing. Technische Kybernetik und Automatisierungstechnik
-    institution: TU Dresden
-    year: 1992
+  erfahrungen:
+  - erfahrung: More than 20 years of software development (Java, Backend)
+    sectors:
+    - sector: Banks
+    - sector: Insurances
+    - sector: Trade
+    - sector: Logistics
+    - sector: Automotice
+    - sector: Industrie
+    - sector: Biotechnology
+  - erfahrung: Dipl.-Ing. Technical Kybernetics and Automation, Technical University of Dresden, 1992
+
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -66,8 +74,10 @@ email: ""
 highlight_name: true
 ---
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm a software developer, agile method, Clean-Code and TDD enthusiast.
+I have more then 20 years of experience of project work in several sectors and all team sizes.
+My focus currently is developing RESTful Web-Services with Java and SpringBoot, including all aspects like architecture, development, quality assurance and testing.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I'm an organizor of the [Softwerkskammer](https://softwerkskammer.org) meetings in [Cologne](https://www.meetup.com/de-DE/Softwerkskammer-Koln/) and [Düsseldorf](https://www.meetup.com/de-DE/Softwerkskammer-Dusseldorf/).
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/profil_en.pdf" "newtab" >}}profile{{< /staticref >}}.
