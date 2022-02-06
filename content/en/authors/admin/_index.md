@@ -6,9 +6,12 @@ title: Birgit Kratz
 superuser: true
 
 # Role/position/tagline
-role: Freelancer, Softwarecrafter
+role: Softwarecrafter
 
 # Organizations/Affiliations to show in About widget
+organizations:
+- name: Freelancer
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: Softwarearchitect and Developer Java, SpringBoot, Clean Code, Agile
@@ -23,8 +26,8 @@ interests:
 
 # Education to show in About widget
 education:
-  erfahrungen:
-  - erfahrung: More than 20 years of software development (Java, Backend)
+  experiences:
+  - ecperience: More than 20 years of software development (Java, Backend)
     sectors:
     - sector: Banks
     - sector: Insurances
@@ -33,7 +36,7 @@ education:
     - sector: Automotice
     - sector: Industrie
     - sector: Biotechnology
-  - erfahrung: Dipl.-Ing. Technical Kybernetics and Automation, Technical University of Dresden, 1992
+  - experience: Dipl.-Ing. Technical Kybernetics and Automation, Technical University of Dresden, 1992
 
 
 # Social/Academic Networking
@@ -59,13 +62,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/birgit-kratz-567079204/
-
-# Link to a PDF of your resume/CV from the About widget.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+- icon: cv
+  icon_pack: ai
+  link: uploads/profil_en.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""

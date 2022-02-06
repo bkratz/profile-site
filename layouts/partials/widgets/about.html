@@ -91,16 +91,17 @@
       </div>
       {{ end }}
 
+      <!-- start customized -->
       {{ with $person.education }}
       <div class="col-md-7">
         <div class="section-subheading">{{ i18n "education" | markdownify }}</div>
         <ul class="ul-interests mb-0">
-          {{ range .erfahrungen }}
-          <li>{{ .erfahrung }}
+          {{ range .experiences }}
+          <li>{{ .experience | markdownify | emojify }}
             <ul class="ul-interests mb-0">
               {{if .sectors}}
               {{ range .sectors }}
-              <li>{{ .sector }}</li>
+              <li>{{ .sector | markdownify | emojify }}</li>
               {{ end }}
               {{end}}
             </ul>
@@ -109,6 +110,7 @@
         </ul>
       </div>
       {{ end }}
+      <!-- end customized -->
 
     </div>
   </div>

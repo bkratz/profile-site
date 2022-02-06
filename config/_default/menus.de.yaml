@@ -25,9 +25,3 @@ main:
   - name: Kontakt
     url: '#contact'
     weight: 70
-  - name: Impressum
-    url: 'impressum'
-    weight: 80
-  - name: Datenschutzerklärung
-    url: 'datenschutzerklaerung'
-    weight: 90
