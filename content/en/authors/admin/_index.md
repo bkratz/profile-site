@@ -27,7 +27,7 @@ interests:
 # Education to show in About widget
 education:
   experiences:
-  - ecperience: More than 20 years of software development (Java, Backend)
+  - experience: More than 20 years of software development (Java, Backend)
     sectors:
     - sector: Banks
     - sector: Insurances
