@@ -64,7 +64,7 @@ social:
   link: https://www.linkedin.com/in/birgit-kratz-567079204/
 - icon: cv
   icon_pack: ai
-  link: uploads/profil_de.pdf
+  link: uploads/Profil_de.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
