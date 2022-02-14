@@ -33,10 +33,10 @@ education:
     - sector: Insurances
     - sector: Trade
     - sector: Logistics
-    - sector: Automotice
-    - sector: Industrie
+    - sector: Automotive
+    - sector: Industry
     - sector: Biotechnology
-  - experience: Dipl.-Ing. Technical Kybernetics and Automation, Technical University of Dresden, 1992
+  - experience: Dipl.-Ing. Technical Kybernetics and Automation Engineering, Technical University of Dresden, 1992
 
 
 # Social/Academic Networking
@@ -79,4 +79,4 @@ My focus currently is developing RESTful Web-Services with Java and SpringBoot, 
 
 I'm an organizor of the [Softwerkskammer](https://softwerkskammer.org) meetings in [Cologne](https://www.meetup.com/de-DE/Softwerkskammer-Koln/) and [Düsseldorf](https://www.meetup.com/de-DE/Softwerkskammer-Dusseldorf/).
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/profil_en.pdf" "newtab" >}}profile{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "en/uploads/profil_en.pdf" "newtab" >}}profile{{< /staticref >}}.
