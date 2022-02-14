@@ -13,9 +13,9 @@ main:
   - name: Projekte
     url: '#experience'
     weight: 30
-#  - name: Vorträge
-#    url: '#talks'
-#    weight: 40
+  - name: Vorträge
+    url: '#upcomingtalks'
+    weight: 40
 #  - name: Publikationen
 #    url: '#featured'
 #    weight: 50

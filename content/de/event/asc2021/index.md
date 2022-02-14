@@ -1,28 +1,33 @@
 ---
-title: Example Talk
+title: "Setzen wir erstmal einen Vertag auf"
 
-event: Wowchemy Conference
-event_url: https://example.org
+event: ASC 2021, API Specifications Conference
+event_url: https://apispecs.io
 
-location: Wowchemy HQ
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+location: Remote
+#address:
+#  street: 450 Serra Mall
+#  city: Stanford
+#  region: CA
+#  postcode: '94305'
+#  country: United States
 
-summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+summary: Contract-First mit OpenAPI
+abstract: |
+  Wenn es um die Entwicklung einer neuen REST-APIs  geht, gibt es grundsätzlich zwei Herangehensweisen: Contract-First oder Code-First
+
+  In diesem Vortrag möchte ich auf den Contract-First Ansatz mit Hilfe von OpenAPI eingehen.
+  Was ist OpenAPI, wie definiere ich damit eine API, welche Werkzeuge gibt es, und wie komme ich dann vom Contract zum Code.
+  Dabei werde ich auch auf Erfahrungen eingehen, die ich mit diesem Ansatz in Projekten gemacht habe, und aufzeigen, welche Vor- und Nachteile dieser Ansatz hat.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
-all_day: false
+date: 2021-09-29
+#date_end: "2021-10-07T15:00:00Z"
+all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2021-09-29T00:00:00Z"
 
 authors: []
 tags: []

@@ -46,8 +46,8 @@ main_menu:
 
 # Localization
 
-date_format: '2 Jan 2006'
-time_format: '03:04'
+date_format: '02.01.2006'
+time_format: '15:04'
 address_format: de
 
 # Site features
@@ -75,7 +75,7 @@ show_related:
 reading_time: true
 section_pager: false
 docs_section_pager: true
-sharing: true
+sharing: false
 copyright_license:
   enable: false
   allow_derivatives: false
