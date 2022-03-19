@@ -36,7 +36,7 @@ experience:
         
       **Technologien/Werkzeuge**
 
-      TDD, Pair-Programming, IntelliJ IDEA, Java 17, REST Services, SpringBoot 2, Docker, Kubernetes, Helm-Charts, OpenAPI, OAuth, Openid-Connect, JUnit5, Gauge, MongoDB, Maven, Git, Jenkins, Sonar, JIRA, Confluence, Azure, Rancher, OTC, Asciidoc        
+      TDD, Pair-Programming, IntelliJ IDEA, Java 17, REST Services, SpringBoot 2, Docker, Kubernetes, Helm-Charts, OpenAPI, HashiCorp Vault, OAuth, Openid-Connect, JUnit5, Gauge, MongoDB, Maven, Git, Jenkins, Sonar, JIRA, Confluence, Azure, Rancher, OTC, Asciidoc        
   - title: Beraterin, Entwicklerin
     company: IT Dienstleister für die Automobilindustrie
 #    company_url: ''

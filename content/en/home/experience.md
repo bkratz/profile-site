@@ -36,7 +36,7 @@ experience:
         
       **Technologies/Tools**
 
-      TDD, Pair-Programming, IntelliJ IDEA, Java 17, REST Services, SpringBoot 2, Docker, Kubernetes, Helm-Charts, OpenAPI, OAuth, Openid-Connect, JUnit5, Gauge, MongoDB, Maven, Git, Jenkins, Sonar, JIRA, Confluence, Azure, Rancher, OTC, Asciidoc        
+      TDD, Pair-Programming, IntelliJ IDEA, Java 17, REST Services, SpringBoot 2, Docker, Kubernetes, Helm-Charts, OpenAPI, HashiCorp Vault, OAuth, Openid-Connect, JUnit5, Gauge, MongoDB, Maven, Git, Jenkins, Sonar, JIRA, Confluence, Azure, Rancher, OTC, Asciidoc        
   - title: Consultant, Developer
     company: IT service provider for automotive
 #    company_url: ''
