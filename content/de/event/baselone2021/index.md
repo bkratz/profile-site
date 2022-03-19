@@ -47,7 +47,7 @@ links:
 url_code: ""
 url_pdf: ""
 url_slides: "uploads/Mutation Testing.pdf"
-url_video: ""
+url_video: "https://www.youtube.com/watch?v=tnHFAO3rXjE"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.

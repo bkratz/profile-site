@@ -1,10 +1,10 @@
 ---
 title: All test are green?
 
-event: BaselOne
-event_url: https://baselone.ch
+event: Developer Week `22
+event_url: https://www.developer-week.de/
 
-location: Basel
+location: Nuremberg
 #address:
 #  street: 450 Serra Mall
 #  city: Stanford
@@ -25,12 +25,12 @@ abstract: |
   In this talk I want to explain, what Mutation Testing is, how to do it and when it is helpful.
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2021-10-07
+date: 2022-07-05
 #date_end: "2021-10-07T15:00:00Z"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2021-10-21T00:00:00Z"
+publishDate: "2022-03-18T00:00:00Z"
 
 authors: []
 tags: []
@@ -45,8 +45,8 @@ image:
 links:
 url_code: ""
 url_pdf: ""
-url_slides: "uploads/Mutation Testing.pdf"
-url_video: "https://www.youtube.com/watch?v=tnHFAO3rXjE"
+url_slides: ""
+url_video: ""
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.

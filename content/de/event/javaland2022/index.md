@@ -45,9 +45,9 @@ image:
   focal_point: Right
 
 links:
-url_code: ""
+url_code: "https://github.com/bkratz/AssertJTalk"
 url_pdf: ""
-url_slides: ""
+url_slides: "uploads/Javaland_2022_AssertJ.pdf"
 url_video: ""
 
 # Markdown Slides (optional).
