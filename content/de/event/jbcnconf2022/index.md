@@ -1,10 +1,10 @@
 ---
-title: All test are green?
-slug: baselone_2021_mutation_testing_en
-event: BaselOne
-event_url: https://baselone.ch
+title: Alle Tests grün?
+slug: jbcn_2022_mutation_testing_de
+event: JBCNConf
+event_url: https://jbcnconf.com/2022
 
-location: Basel
+location: Barcelona
 #address:
 #  street: 450 Serra Mall
 #  city: Stanford
@@ -12,25 +12,26 @@ location: Basel
 #  postcode: '94305'
 #  country: United States
 
-summary: Oh no!! Why it is sometimes good, if a test fails.
+summary: Oh no!!! Warum es manchmal gut ist, wenn ein Test rot wird.
 abstract: |
-  Test coverage: 100% - Check!  
-  And why do we still have bugs?  
-  OK, tests don't prove the absence of errors.  
-  And at the end of the day, they are just code which could contain bugs as well.  
-  And perhaps they give us a false sense of security.  
-  But how do I know, that my test are good?  
+  Testabdeckung: 100% - Check!  
+  Und wieso haben wir dann immer noch Bugs?  
+  OK, Tests beweisen nicht die Abwesenheit von Fehlern.  
+  Und Tests sind am Ende des Tages auch nur Code, der Bugs enthalten kann.
+  Vielleicht wiegen sie uns ja auch in falscher Sicherheit?
+  Und wie weiß ich, ob meine Tests gut sind?
 
-  One way to find out is using Mutation Testing.  
-  In this talk I want to explain, what Mutation Testing is, how to do it and when it is helpful.
+  Ein Mittel das herauszufinden ist Mutation Testing.  
+  In diesem Vortrag will ich erklären, was Mutation Testing ist, wie man es macht und wobei es uns hilft.
+
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2021-10-07
+date: 2022-07-18
 #date_end: "2021-10-07T15:00:00Z"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2021-10-21T00:00:00Z"
+publishDate: "2022-04-21T00:00:00Z"
 
 authors: []
 tags: []
@@ -45,8 +46,8 @@ image:
 links:
 url_code: ""
 url_pdf: ""
-url_slides: "uploads/Mutation Testing.pdf"
-url_video: "https://www.youtube.com/watch?v=tnHFAO3rXjE"
+url_slides: ""
+url_video: ""
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.

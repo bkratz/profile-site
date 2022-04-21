@@ -1,6 +1,6 @@
 ---
 title: Alle Tests grün?
-
+slug: baselone_2021_mutation_testing_de
 event: BaselOne
 event_url: https://baselone.ch
 

@@ -1,6 +1,6 @@
 ---
 title: Alle Tests grün?
-
+slug: developerweek_2022_mutation_testing_de
 event: Developer Week `22
 event_url: https://www.developer-week.de/
 
