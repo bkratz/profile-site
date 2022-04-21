@@ -77,6 +77,8 @@ I'm a freelance software developer, enthusiastic about using agile methods, writ
 I have more then 20 years of experience of project work in several sectors and all team sizes.
 My focus currently is developing RESTful Web-Services with Java and SpringBoot, including all aspects like architecture, development, quality assurance and testing.
 
-I'm an organizor of the [Softwerkskammer](https://softwerkskammer.org) meetings in [Cologne](https://www.meetup.com/de-DE/Softwerkskammer-Koln/) and [Düsseldorf](https://www.meetup.com/de-DE/Softwerkskammer-Dusseldorf/).
+I'm an co-organizor of the [Softwerkskammer](https://softwerkskammer.org) meetings in [Cologne](https://www.meetup.com/de-DE/Softwerkskammer-Koln/) and [Düsseldorf](https://www.meetup.com/de-DE/Softwerkskammer-Dusseldorf/) as well as for [SoCraTes](https://www.socrates-conference.de/home) - Conference for Software Craft and Testing.
+
+Furthermore I'm a trainer for [Spring Boot](https://spring.io/projects/spring-boot). The trainings are given in cooperation with [Workshops.de](https://www.workshops.de).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "en/uploads/profil_en.pdf" "newtab" >}}profile{{< /staticref >}}.

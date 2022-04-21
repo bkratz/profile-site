@@ -1,5 +1,5 @@
 ---
-title: Courses
+title: Schulungen
 type: page
 
 view: 2
@@ -9,4 +9,4 @@ header:
   image: ""
 ---
 
-I teach the following courses:
+Ich bin Trainerin für Spring Boot Intensiv-Schulungen angeboten von [Workshops.de](https://www.workshops.de)

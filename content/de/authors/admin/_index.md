@@ -77,6 +77,9 @@ Ich bin freiberufliche Softwareentwicklerin, Verfechterin der Anwendung agiler E
 Ich habe mehr als 20 Jahre Erfahrung in der Softwareentwicklung für unterschiedliche Branchen und in der Zusammenarbeit innerhalb großer und kleiner Teams.
 Mein Schwerpunkt liegt derzeit in der Entwicklung von RESTful Web-Services mit Hilfe von Java und SpringBoot. Dabei bin ich in alle Aspekte, von der Architektur über die Umsetzung (hauptsächlich von Backend-Anforderungen), Qualitätssicherung und Test, involviert.
 
-Ich bin Organisator der [Softwerkskammer](https://softwerkskammer.org) Meetings in [Köln](https://www.meetup.com/de-DE/Softwerkskammer-Koln/) und [Düsseldorf](https://www.meetup.com/de-DE/Softwerkskammer-Dusseldorf/).
+Ich bin Co-Organisatorin der [Softwerkskammer](https://softwerkskammer.org) Meetings in [Köln](https://www.meetup.com/de-DE/Softwerkskammer-Koln/) und [Düsseldorf](https://www.meetup.com/de-DE/Softwerkskammer-Dusseldorf/) sowie der [SoCraTes](https://www.socrates-conference.de/home) - Conference for Software Craft and Testing.
+
+Des Weiteren bin ich Trainerin für [Spring Boot](https://spring.io/projects/spring-boot). Schulungen dazu gebe ich in Zusammenarbeit mit [Workshops.de](https://www.workshops.de).
+
 
 {{< icon name="download" pack="fas" >}} Mein {{< staticref "uploads/profil_de.pdf" "newtab" >}}Profil{{< /staticref >}} zum Herunterladen als PDF.
