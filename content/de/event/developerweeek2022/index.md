@@ -46,7 +46,7 @@ image:
 links:
 url_code: ""
 url_pdf: ""
-url_slides: ""
+url_slides: "uploads/DeveloperWeek_2022_MutationTesting.pdf"
 url_video: ""
 
 # Markdown Slides (optional).
