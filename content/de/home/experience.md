@@ -22,13 +22,28 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Beraterin, Entwicklerin
+    company: Versicherung
+#    company_url: ''
+#    company_logo: ''
+    location: Dortmund/Remote
+    date_start: '2022-07-01'
+    date_end: ''
+    description: |2-
+      **Entwicklung für die Migration von Versicherungsverträgen in eine neu entwickelte Plattform**
+      
+      Arbeit in einem kleinen Team, verantwortlich für alle Arbeiten bezüglich der durchzuführenden Migration. Enge Zusammenarbeit mit dem Team, welches die neue Plattform entwickelt. Koordination und Absprachen mit allen Umsystemen, Information über Vorgehensweise und Fortschritt der Migration, Architekturentscheidungen bezüglich Design, Implementierung, Staging, Build-Automatisierung, Tests, Lasttests, Batchverarbeitung, Performanz für hohes Datenvolumen.
+        
+      **Technologies/Tools**
+
+      TDD, Pair-Programming, IntelliJ IDEA, Java 17, REST Services, SpringBoot 2, Docker, OpenAPI, OAuth, Openid-Connect, JUnit5, PostgrSQL, DB2, Maven, Git, Jenkins, Sonar, JIRA, Confluence, Asciidoc
   - title: Beraterin, Lead-Entwicklerin, Architektin
     company: Finanzdienstleister
 #    company_url: ''
 #    company_logo: ''
     location: Neuss/Remote
     date_start: '2020-05-01'
-    date_end: ''
+    date_end: '2022-06-30'
     description: |2-
       **Backend-Entwicklung für eine neu zu entwickelnde Platform für die Inkasso Wirtschaft**
       

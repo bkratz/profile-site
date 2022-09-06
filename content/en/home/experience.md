@@ -22,13 +22,29 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Consultant, Developer
+    company: Insurance
+#    company_url: ''
+#    company_logo: ''
+    location: Dortmund/Remote
+    date_start: '2022-07-01'
+    date_end: ''
+    description: |2-
+      **Development for a migration of insurance contracts to a newly developed platform**
+      
+      Working in a small team responsible for migration, close cooperation with the team developing the new platform. Coordination of efforts to inform surrounding systems about migration. Architectural design and implementation, concepts for staging, automation of build and deployment processes, batch processing, performance and high data throughput.
+        
+      **Technologies/Tools**
+
+      TDD, Pair-Programming, IntelliJ IDEA, Java 17, REST Services, SpringBoot 2, Docker, OpenAPI, OAuth, Openid-Connect, JUnit5, PostgrSQL, DB2, Maven, Git, Jenkins, Sonar, JIRA, Confluence, Asciidoc
+
   - title: Consultant, Lead-Developer, Architect
     company: Financial Service Provider
 #    company_url: ''
 #    company_logo: ''
     location: Neuss/Remote
     date_start: '2020-05-01'
-    date_end: ''
+    date_end: '2022-06-30'
     description: |2-
       **Backend development for a new platform in the field of collection agencies**
       
