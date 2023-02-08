@@ -2,6 +2,14 @@
 # Display name
 title: Birgit Kratz
 
+# Full name (for SEO)
+first_name: Birgit
+last_name: Kratz
+
+# Status emoji
+#status:
+#  icon: ☕️
+
 # Is this the primary user of the site?
 superuser: true
 

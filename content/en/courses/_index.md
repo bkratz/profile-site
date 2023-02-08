@@ -1,5 +1,5 @@
 ---
-title: Courses
+title: Schulungen
 type: page
 
 view: 2
@@ -9,4 +9,5 @@ header:
   image: ""
 ---
 
-I teach the following courses:
+I teach SpringBoot in workshops offered by [Workshops.de](https://workshops.de/schulungsthemen/spring)
+<hr />

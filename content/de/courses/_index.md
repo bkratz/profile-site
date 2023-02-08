@@ -9,4 +9,5 @@ header:
   image: ""
 ---
 
-Ich bin Trainerin für Spring Boot Intensiv-Schulungen angeboten von [Workshops.de](https://www.workshops.de)
+Ich bin Trainerin für SpringBoot Intensiv-Schulungen angeboten von [Workshops.de](https://workshops.de/schulungsthemen/spring)
+<hr />

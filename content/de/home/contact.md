@@ -15,7 +15,20 @@ subtitle:
 content:
   # Automatically link email and phone or display as text?
   autolink: true
-   
+
+  email: mail (at) birgitkratz.de
+  phone: +49 172 9925467
+  address:
+    city: Dormagen
+    region: NRW
+    country: Germany
+    country_code: DE
+  contact_links:
+    - icon: twitter
+      icon_pack: fab
+      name: DM Me
+      link: 'https://twitter.com/bikratz'
+
 design:
   columns: '2'
 ---
