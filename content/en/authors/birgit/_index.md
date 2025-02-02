@@ -47,12 +47,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto: mail(at)birgitkratz.de'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/bikratz
-  label: Follow me on Twitter
-  display:
-    header: true
 - icon: xing
   icon_pack: fab
   link: https://www.xing.com/profile/Birgit_Kratz2
