@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Beraterin, Entwicklerin
+  - title: Beraterin, Lead-Entwicklerin
     company: Versicherung
 #    company_url: ''
 #    company_logo: ''
@@ -36,7 +36,7 @@ experience:
         
       **Technologies/Tools**
 
-      TDD, Pair-Programming, IntelliJ IDEA, Java 17, REST Services, SpringBoot 2, Docker, OpenAPI, OAuth, Openid-Connect, JUnit5, PostgrSQL, DB2, Maven, Git, Jenkins, Sonar, JIRA, Confluence, Asciidoc
+      TDD, Pair-Programming, IntelliJ IDEA, Java 21, REST Services, SpringBoot 3, Docker, OpenAPI, OAuth, Openid-Connect, JUnit5, PostgrSQL, DB2, Maven, Git, Jenkins, Sonar, JIRA, Confluence, Asciidoc
   - title: Beraterin, Lead-Entwicklerin, Architektin
     company: Finanzdienstleister
 #    company_url: ''
@@ -81,7 +81,7 @@ experience:
 
       **Technologien/Werkzeuge**
 
-      IntelliJ IDEA, Java 8, Spring Boot 2, REST Services, JSON, Junit 5, Git, Jenkins, JIRA, Confluence, Sonar, TeamCity
+      IntelliJ IDEA, Java 8, Spring Boot 2, REST Services, JSON, ANTLR, Junit 5, Git, Jenkins, JIRA, Confluence, Sonar, TeamCity
   - title: Beraterin, Entwicklerin
     company: NEOZO
 #    company_url: ''

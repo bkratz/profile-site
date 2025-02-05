@@ -36,7 +36,7 @@ experience:
         
       **Technologies/Tools**
 
-      TDD, Pair-Programming, IntelliJ IDEA, Java 17, REST Services, SpringBoot 2, Docker, OpenAPI, OAuth, Openid-Connect, JUnit5, PostgrSQL, DB2, Maven, Git, Jenkins, Sonar, JIRA, Confluence, Asciidoc
+      TDD, Pair-Programming, IntelliJ IDEA, Java 21, REST Services, SpringBoot 3, Docker, OpenAPI, OAuth, Openid-Connect, JUnit5, PostgrSQL, DB2, Maven, Git, Jenkins, Sonar, JIRA, Confluence, Asciidoc
 
   - title: Consultant, Lead-Developer, Architect
     company: Financial Service Provider
@@ -82,7 +82,7 @@ experience:
         
       **Technologies/Tools**
 
-      IntelliJ IDEA, Java 8, Spring Boot 2, REST Services, JSON, Junit 5, Git, Jenkins, JIRA, Confluence, Sonar, TeamCity        
+      IntelliJ IDEA, Java 8, Spring Boot 2, REST Services, JSON, ANTLR, Junit 5, Git, Jenkins, JIRA, Confluence, Sonar, TeamCity        
   - title: Consultant, Developer
     company: NEOZO
 #    company_url: ''
