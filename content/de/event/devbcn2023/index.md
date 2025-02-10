@@ -31,7 +31,7 @@ all_day: true
 publishDate: "2023-06-20T00:00:00Z"
 
 authors: []
-tags: []
+tags: [event]
 
 # Is this a featured talk? (true/false)
 featured: false

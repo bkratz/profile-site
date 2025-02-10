@@ -1,6 +1,6 @@
 ---
 title: "Von Giganten, Lügnern und Trantüten und Inspektoren..."
-
+slug: herbstcampus_2022
 event: Herbstcampus 2022
 event_url: https://www.herbstcampus.de/
 
@@ -31,7 +31,7 @@ all_day: true
 publishDate: "2022-08-30T00:00:00Z"
 
 authors: []
-tags: []
+tags: [event]
 
 # Is this a featured talk? (true/false)
 featured: false

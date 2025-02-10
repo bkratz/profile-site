@@ -1,6 +1,6 @@
 ---
 title: "Setzen wir erstmal einen Vertag auf"
-
+slug: herbstcampus_2021
 event: Herbstcampus 2021
 event_url: https://www.herbstcampus.de/
 
@@ -30,7 +30,7 @@ all_day: true
 publishDate: "2021-09-15T00:00:00Z"
 
 authors: []
-tags: []
+tags: [event]
 
 # Is this a featured talk? (true/false)
 featured: false

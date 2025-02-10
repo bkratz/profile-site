@@ -16,11 +16,8 @@ main:
   - name: Vorträge
     url: '#upcomingtalks'
     weight: 40
-#  - name: Publikationen
-#    url: '#featured'
-#    weight: 50
   - name: Schulungen
-    url: courses/
+    url: '#courses'
     weight: 60
   - name: Kontakt
     url: '#contact'

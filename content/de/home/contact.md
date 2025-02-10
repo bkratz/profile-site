@@ -24,10 +24,10 @@ content:
     country: Germany
     country_code: DE
   contact_links:
-    - icon: twitter
+    - icon: linkedin
       icon_pack: fab
-      name: DM Me
-      link: 'https://twitter.com/bikratz'
+      name: LinkedIn Kontakt
+      link: https://www.linkedin.com/in/birgit-kratz-567079204/
 
 design:
   columns: '2'

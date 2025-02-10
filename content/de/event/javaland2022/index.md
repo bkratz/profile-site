@@ -1,6 +1,6 @@
 ---
 title: Im Dutzend billiger
-
+slug: javaland_2022
 event: Javaland
 event_url: https://javaland.eu
 
@@ -28,14 +28,13 @@ abstract: |
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2022-03-16T17:00:00Z"
-date_end: "2022-03-16T17:40:00Z"
-all_day: false
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2022-02-14T00:00:00Z"
 
 authors: []
-tags: []
+tags: [event]
 
 # Is this a featured talk? (true/false)
 featured: false

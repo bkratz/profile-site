@@ -1,6 +1,6 @@
 ---
 title: "Let's work out a deal"
-
+slug: asc_2021
 event: ASC 2021, API Specifications Conference
 event_url: https://apispecs.io
 
@@ -33,7 +33,7 @@ all_day: true
 publishDate: "2021-09-28T00:00:00Z"
 
 authors: []
-tags: []
+tags: [event]
 
 # Is this a featured talk? (true/false)
 featured: false

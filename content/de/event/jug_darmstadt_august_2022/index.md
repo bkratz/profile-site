@@ -1,6 +1,6 @@
 ---
 title: "Von Giganten, Lügnern und Trantüten"
-
+slug: jug_darmstadt_2022
 event: JUG Darmstadt August 2022
 event_url: https://www.jug-da.de/2022/08/Test-Antipatterns/
 
@@ -34,7 +34,7 @@ all_day: true
 publishDate: "2022-08-20T00:00:00Z"
 
 authors: []
-tags: []
+tags: [event]
 
 # Is this a featured talk? (true/false)
 featured: false

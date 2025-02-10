@@ -1,6 +1,6 @@
 ---
 title: Alle Tests grün?
-slug: jbcn_2022_mutation_testing_de
+slug: jbcn_2022
 event: JBCNConf
 event_url: https://jbcnconf.com/2022
 
@@ -34,7 +34,7 @@ all_day: true
 publishDate: "2022-04-21T00:00:00Z"
 
 authors: []
-tags: []
+tags: [event]
 
 # Is this a featured talk? (true/false)
 featured: false

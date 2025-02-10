@@ -7,7 +7,7 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 75
+weight: 50
 
 title: 'Recent Talks'
 subtitle:
@@ -21,7 +21,7 @@ content:
   filters:
     author: ""
     category: ""
-    tag: ""
+    tag: "event"
     exclude_featured: false
     exclude_future: true
     exclude_past: false
