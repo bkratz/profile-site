@@ -63,10 +63,10 @@ social:
   link: https://github.com/bkratz
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/birgit-kratz-567079204/
+  link: https://www.linkedin.com/in/birgitkratz/
 - icon: cv
   icon_pack: ai
-  link: uploads/Profil_de.pdf
+  link: uploads/Profil_de.pdf  
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -85,3 +85,8 @@ Des Weiteren bin ich Trainerin für [Spring Boot](https://spring.io/projects/spr
 
 
 {{< icon name="download" pack="fas" >}} Mein {{< staticref "uploads/profil_de.pdf" "newtab" >}}Profil{{< /staticref >}} zum Herunterladen als PDF.
+
+Besuchen Sie auch gerne mein Profil bei <a href="https://www.freelancermap.de/profil/birgit-kratz" target="_blank">
+<img src="https://www.freelancermap.de/assets/logo/logo-black.svg" alt="Profil von Birgit Kratz auf www.freelancermap.de" style="margin: 0; padding: 0; display: inline-block; height: 1em;" />
+</a>
+

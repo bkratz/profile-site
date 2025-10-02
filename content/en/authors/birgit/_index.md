@@ -55,7 +55,7 @@ social:
   link: https://github.com/bkratz
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/birgit-kratz-567079204/
+  link: https://www.linkedin.com/in/birgitkratz/
 - icon: cv
   icon_pack: ai
   link: uploads/Profil_en.pdf
